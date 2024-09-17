@@ -22,7 +22,7 @@
 
 ### SOLID Principles
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu)
-- [TimCorey]()
+- [TimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY3ob0Ga6vn1czFZfW6e-FLr)
 
 ### LINQ
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6)
